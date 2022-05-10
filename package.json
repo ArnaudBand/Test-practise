@@ -1,0 +1,20 @@
+{
+  "name": "test-practise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArnaudBand/Test-practise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArnaudBand/Test-practise/issues"
+  },
+  "homepage": "https://github.com/ArnaudBand/Test-practise#readme"
+}
